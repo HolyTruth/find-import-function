@@ -1,7 +1,7 @@
 # find-import-function
-Find which dynamic library an imported function in a binary file belongs to
+Finding which dynamic library a specific imported function belongs to in a binary file.
 
-Search in the current directory by default
+Search in current directory by default.
 
 ## usage
 ```sh
