@@ -1,5 +1,5 @@
 # find-import-function
-Find out which lib the imported function belongs to
+Find which dynamic library an imported function in a binary file belongs to
 
 Search in the current directory by default
 
