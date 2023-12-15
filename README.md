@@ -5,6 +5,7 @@ Find out which lib the imported function belongs to
 
 ```sh
 [*] usage: python /root/.code/checkDyn.py <binary> <first_expect_fun> [ second_expect_fun ...]
+```
 
 ## example
 ```sh
@@ -13,3 +14,4 @@ Find out which lib the imported function belongs to
 [*] read is not an import function!
 [+] Found uf_client_call in libunifyframe.so!
 [+] all done!
+```
